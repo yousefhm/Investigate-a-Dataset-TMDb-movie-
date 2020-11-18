@@ -4,7 +4,10 @@ This contain four parts.
 
 Table of Contents:
 
-Introduction
-Data wrangling
-Exploratory data analysis
-Conclusions
+1- Introduction
+
+2- Data wrangling
+
+3- Exploratory data analysis
+
+4- Conclusions
